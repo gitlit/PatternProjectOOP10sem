@@ -488,3 +488,11 @@
 	<SFML/Audio/Export.hpp>
 	<string>
 
+1465213795 source:c:\users\vlitvinov\documents\mydocuments\ООП Подлесных 10 семестр\patternprojectoop10sem\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<string>
+
